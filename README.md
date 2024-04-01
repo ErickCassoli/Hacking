@@ -4,10 +4,10 @@ Bem-vindo ao Roadmap Avançado de Hacking e Pentest. Este guia foi elaborado par
 
 ### 1. Fundamentos
 
-- [ ] **Fundamentos de Redes e Sistemas Operacionais**
+- [X] **Fundamentos de Redes e Sistemas Operacionais**
   - Recomendação: Aprofunde-se em protocolos de rede, arquitetura de sistemas operacionais e administração de redes.
 
-- [ ] **Linguagens de Programação Essenciais**
+- [X] **Linguagens de Programação Essenciais**
   - Recomendação: Além de Python, Bash e PowerShell, estude C/C++ para compreender melhor o funcionamento interno dos sistemas e malwares.
 
 - [ ] **Conceitos de Segurança da Informação**
