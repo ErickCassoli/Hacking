@@ -9,6 +9,7 @@ Bem-vindo ao Roadmap Avançado de Hacking e Pentest. Este guia foi elaborado par
 
 - [X] **Linguagens de Programação Essenciais**
   - Recomendação: Além de Python, Bash e PowerShell, estude C/C++ para compreender melhor o funcionamento interno dos sistemas e malwares.
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 - [ ] **Conceitos de Segurança da Informação**
   - Recomendação: Estude sobre princípios de segurança, criptografia, autenticação e autorização.
@@ -56,11 +57,15 @@ Bem-vindo ao Roadmap Avançado de Hacking e Pentest. Este guia foi elaborado par
   - "The Art of Computer Virus Research and Defense" por Peter Szor.
   - "Metasploit: The Penetration Tester's Guide" por David Kennedy, Jim O'Gorman, Devon Kearns e Mati Aharoni.
   - Cursos avançados em plataformas como Offensive Security e eLearnSecurity.
-
+  
 - **Laboratórios Práticos e Capture The Flag (CTF)**
   - Participe de CTFs online e locais para aplicar e aprimorar suas habilidades em um ambiente desafiador e divertido.
-
+  
 - **Ferramentas Avançadas**
   - Além das ferramentas mencionadas, explore outras ferramentas de segurança e pentest, como Cobalt Strike, Empire e Veil.
 
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+</div>
